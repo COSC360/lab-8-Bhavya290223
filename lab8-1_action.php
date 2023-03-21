@@ -32,7 +32,7 @@ if (isset($fn) && isset($key) && $fn != '' && $key != ''){
     }
 
 } else {
-    die("Error: Fields are incomplete");
+    die("ERROR: Fields are incomplete");
 }
 
 ?>
